@@ -79,6 +79,4 @@ We identified **6 main customer segments**, each with unique characteristics and
 ## ⚠️ Limitations
 - Dataset is small (200 customers).  
 - Limited features (no purchase frequency, categories, or history).  
-- Results need validation on larger, real-world data.  
-
----
+- Results need validation on larger, real-world data.
