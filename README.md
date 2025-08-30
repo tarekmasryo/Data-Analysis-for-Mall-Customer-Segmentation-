@@ -1,4 +1,4 @@
-# 🛍️ Mall Customer Segmentation — KMeans, PCA & DBSCAN (Actionable Personas)
+# 🛍️ Mall Customer Segmentation — KMeans, PCA & DBSCAN
 
 ## 📌 Project Overview
 This project segments **mall customers** into distinct behavioral groups using **unsupervised learning**.  
